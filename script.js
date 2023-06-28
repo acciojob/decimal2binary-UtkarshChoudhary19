@@ -3,7 +3,7 @@ function threeSum(arr, target) {
 let binary = decimal.toString( redix );
 
 
-Let binary = (decimal >>> 0).toString( redix );  
+let binary = (decimal >>> 0).toString( redix );  
 }
 
 module.exports = threeSum;
